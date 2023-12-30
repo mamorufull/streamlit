@@ -5,6 +5,8 @@ st.write("""
 # My first app
 Hello *world!*
 """)
+
+st.date_input('Pick a date')
  
 # df = pd.read_csv("my_data.csv")
 # st.line_chart(df)
